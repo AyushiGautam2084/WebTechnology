@@ -1,0 +1,8 @@
+
+body {background-color:blue;}
+h1 {color:yellow;
+    text-align:center;}
+p.double{background-color: #92a8d1;
+        border-style:double 12px orange cyan;}
+
+  
